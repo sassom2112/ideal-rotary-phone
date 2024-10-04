@@ -1,3 +1,5 @@
+A Python hashing crash crourse, if needed:
+[Understanding Hashing by Building Your Own Password Cracker (For Beginners)](https://medium.com/@sassom2112/understanding-hashing-by-building-your-own-password-cracker-for-beginners-9f0591e1e98d)
 # SHA512 Password Cracker
 
 This project demonstrates password cracking techniques based on poor salting practices and the strength of more robust hashing algorithms like SHA512. It consists of two password cracking approaches:
