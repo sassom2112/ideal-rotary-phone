@@ -1,5 +1,5 @@
 A Python hashing crash crourse, if needed:
-
+git push
 [Understanding Hashing by Building Your Own Password Cracker (For Beginners)](https://medium.com/@sassom2112/understanding-hashing-by-building-your-own-password-cracker-for-beginners-9f0591e1e98d)
 # SHA512 Password Cracker
 
